@@ -1,6 +1,6 @@
 <h3 align="center">A passionate junior frontend developer from Turkmenistan</h3>
 
-- 🔭 I’m currently working on [TCLab's messenger](https://messenger.batyrovv.su)
+- 🔭 I’m currently working on [VITTS Web Messenger](https://vitts.batyrovv.su)
 
 - 🌱 I’m currently learning **NodeJS, ExpressJS & MongoDB**
 
